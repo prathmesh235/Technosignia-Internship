@@ -19,9 +19,9 @@ java-internship-tasks/
 
 | Day | Topic | Folder |
 |-----|-------|--------|
-| Day 1 | *(add your Day 1 topic, e.g. Java basics, variables, operators)* | `Day1/` |
-| Day 2 | *(add your Day 2 topic, e.g. control statements, loops)* | `Day2/` |
-| Day 3 | *(add your Day 3 topic, e.g. OOP: classes, objects, inheritance)* | `Day3/` |
+| Day 1 | *( Java basics, variables, operators)* | `Day1/` |
+| Day 2 | *( control statements, loops)* | `Day2/` |
+| Day 3 | *( OOP: classes, objects, inheritance)* | `Day3/` |
 | Day 4 | Arrays, Strings, Collections, Exception Handling, File Handling, Streams | `Day4/` |
 
 ### Day 4: Student Record Management System
