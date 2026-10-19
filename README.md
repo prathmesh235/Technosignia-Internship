@@ -50,5 +50,5 @@ java StudentManagement
 
 ## Author
 
-**Your Name**
+**Name**
 GitHub: [@prathmesh235](https://github.com/prathmesh235)
