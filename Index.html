@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Directory</title>
+  <link rel="stylesheet" href="Style1.css">
+</head>
+<body>
+  <header>
+    <h1>Student Directory</h1>
+    <button id="themeBtn">Toggle Theme</button>
+  </header>
+
+  <main>
+    <!-- Form-submission event -->
+    <section class="panel">
+      <h2>Add Student</h2>
+      <form id="studentForm">
+        <input type="text" id="nameInput" placeholder="Name" required>
+        <input type="number" id="marksInput" placeholder="Marks (0-100)"
+               min="0" max="100" required>
+        <button type="submit">Add</button>
+      </form>
+      <p id="formMsg"></p>
+    </section>
+
+    <!-- Searching and filtering -->
+    <section class="panel">
+      <h2>Search and Filter</h2>
+      <div class="controls">
+        <input type="text" id="searchInput" placeholder="Search by name...">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="pass">Pass (50+)</button>
+        <button class="filter-btn" data-filter="fail">Fail (below 50)</button>
+        <button id="sortBtn">Sort by Marks</button>
+        <button id="loadBtn">Load from API</button>
+      </div>
+      <p id="stats"></p>
+    </section>
+
+    <!-- Dynamic data -->
+    <section>
+      <p id="status"></p>
+      <div id="list" class="cards"></div>
+    </section>
+  </main>
+
+  <script src="Script1.js"></script>
+</body>
+</html>
