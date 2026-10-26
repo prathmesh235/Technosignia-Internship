@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header title="My React App" />
-      <Home name="Rahul" course="React.js" />
+      <Home name="Prathmesh" course="React.js" />
       <Footer text={`© ${new Date().getFullYear()} My React App`} />
     </>
   );
