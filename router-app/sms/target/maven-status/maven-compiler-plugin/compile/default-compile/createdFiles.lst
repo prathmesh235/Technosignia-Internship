@@ -1,0 +1,7 @@
+com\example\sms\repository\StudentRepository.class
+com\example\sms\controller\DepartmentController.class
+com\example\sms\controller\StudentController.class
+com\example\sms\entity\Department.class
+com\example\sms\repository\DepartmentRepository.class
+com\example\sms\StudentManagementApplication.class
+com\example\sms\entity\Student.class
