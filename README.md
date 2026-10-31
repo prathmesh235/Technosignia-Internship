@@ -45,4 +45,4 @@ Thanks to **Technosignia** and my mentor **Sakshi Suryawanshi** for guidance and
 - **Name:** Prathmesh Gavram Panmand
 - **Email:** prathmeshpanmand23@gmail.com
 - **LinkedIn:** [https://in.linkedin.com/in/prathmesh-panmand-aa696b316)
-- **GitHub:** [github.com/your-username](https://github.com/prathmesh235)
+- **GitHub:** (https://github.com/prathmesh235)
