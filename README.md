@@ -2,7 +2,7 @@
 
 > A record of my learning, daily tasks, and projects during the **Java Full Stack Development Internship** at **Technosignia**.
 
-## About the Internship...
+## About the Internship
 
 | | |
 |---|---|
