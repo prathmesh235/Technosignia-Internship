@@ -20,7 +20,7 @@
 - Build responsive frontends with HTML, CSS, JavaScript, and React
 - Complete an end-to-end full stack project
 
-## Tech Stack.
+## Tech Stack
 
 | Layer | Technologies |
 |---|---|
