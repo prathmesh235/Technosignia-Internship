@@ -10,7 +10,7 @@
 | **Organization** | Technosignia |
 | **Domain** | Java Full Stack Development |
 | **Duration** | 3 Month's |
-| **Mentor** | Sakshi Suryawanshi |
+| **Mentor** |  Ms.Sakshi Suryawanshi |
 
 ## Objectives
 
@@ -38,7 +38,7 @@
 
 ## Acknowledgements
 
-Thanks to **Technosignia** and my mentor **Sakshi Suryawanshi** for guidance and support throughout this internship.
+Thanks to **Technosignia** and my mentor **Ms.Sakshi Suryawanshi** for guidance and support throughout this internship.
 
 ## Contact
 
