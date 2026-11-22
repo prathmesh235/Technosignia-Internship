@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Royal Rajasthan", "duration": "5 days", "includes": ["Hotel stay", "Breakfast", "City guide"], "price": 22000 },
+  { "id": 2, "title": "Beach Break Goa", "duration": "4 days", "includes": ["Resort stay", "Airport pickup", "Water sports"], "price": 18500 },
+  { "id": 3, "title": "Ladakh Explorer", "duration": "7 days", "includes": ["Homestays", "All meals", "Permits"], "price": 41000 }
+]

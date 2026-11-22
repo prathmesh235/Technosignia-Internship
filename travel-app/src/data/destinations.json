@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Jaipur", "location": "Rajasthan, India", "image": "https://picsum.photos/seed/jaipur/600/400", "description": "The Pink City of forts, palaces and vibrant bazaars.", "price": 12000 },
+  { "id": 2, "name": "Goa", "location": "Goa, India", "image": "https://picsum.photos/seed/goa/600/400", "description": "Sandy beaches, seafood shacks and relaxed coastal evenings.", "price": 15000 },
+  { "id": 3, "name": "Munnar", "location": "Kerala, India", "image": "https://picsum.photos/seed/munnar/600/400", "description": "Rolling tea estates wrapped in mist and mountain air.", "price": 14000 },
+  { "id": 4, "name": "Leh Ladakh", "location": "Ladakh, India", "image": "https://picsum.photos/seed/ladakh/600/400", "description": "High-altitude passes, blue lakes and ancient monasteries.", "price": 28000 },
+  { "id": 5, "name": "Varanasi", "location": "Uttar Pradesh, India", "image": "https://picsum.photos/seed/varanasi/600/400", "description": "Sunrise boat rides and evening aarti along the Ganges ghats.", "price": 9000 },
+  { "id": 6, "name": "Ajanta & Ellora", "location": "Maharashtra, India", "image": "https://picsum.photos/seed/ellora/600/400", "description": "Rock-cut cave temples and paintings, a short drive from Aurangabad.", "price": 6000 }
+]
