@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Weekend Escape", "price": 12000, "days": 3, "tagline": "Short break near you",
+    "includes": ["Hotel stay", "Breakfast", "Local sightseeing"] },
+  { "id": 2, "name": "Explorer Plus", "price": 28000, "days": 5, "tagline": "Comfort and guided tours",
+    "includes": ["4-star hotel", "All meals", "Guide", "Airport transfers"] },
+  { "id": 3, "name": "Adventure Pack", "price": 36000, "days": 7, "tagline": "Treks, rafting and camping",
+    "includes": ["Camping gear", "Trek guide", "Meals", "Insurance"] },
+  { "id": 4, "name": "Luxury Getaway", "price": 65000, "days": 7, "tagline": "Resort stay with private car",
+    "includes": ["5-star resort", "Private car", "Spa access", "Flights"] }
+]
