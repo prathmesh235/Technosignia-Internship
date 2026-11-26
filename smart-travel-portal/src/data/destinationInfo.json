@@ -1,0 +1,42 @@
+{
+  "1": {
+    "attractions": ["Amber Fort – hilltop fort with mirror-work palace halls", "Hawa Mahal – the 'Palace of Winds' façade", "City Palace – royal residence and museum", "Jantar Mantar – 18th-century astronomical observatory"],
+    "budget": { "stay": 6500, "food": 3000, "transport": 2500, "activities": 2000 },
+    "travel": { "reach": "Direct flights and trains from most Indian metros.", "airport": "Jaipur International Airport (JAI)", "climate": "Hot summers, pleasant winters", "language": "Hindi, Rajasthani, English", "tip": "Start forts early to avoid the midday heat." }
+  },
+  "2": {
+    "attractions": ["Alleppey backwaters – houseboat cruise", "Munnar – tea gardens and viewpoints", "Kumarakom – bird sanctuary", "Fort Kochi – Chinese fishing nets and cafes"],
+    "budget": { "stay": 9000, "food": 4000, "transport": 3000, "activities": 3500 },
+    "travel": { "reach": "Fly into Kochi, then road or boat transfers.", "airport": "Cochin International Airport (COK)", "climate": "Warm and humid, heavy rain in monsoon", "language": "Malayalam, English", "tip": "Book the houseboat in advance for peak winter months." }
+  },
+  "3": {
+    "attractions": ["Baga and Calangute beaches – water sports and nightlife", "Basilica of Bom Jesus – UNESCO church", "Fort Aguada – sea-facing Portuguese fort", "Dudhsagar Falls – four-tier waterfall"],
+    "budget": { "stay": 5500, "food": 3500, "transport": 2000, "activities": 2500 },
+    "travel": { "reach": "Fly into Dabolim or Mopa; trains reach Madgaon.", "airport": "Goa International Airport (GOI)", "climate": "Tropical, dry from November to February", "language": "Konkani, English, Hindi", "tip": "Rent a scooter only if you are a confident rider." }
+  },
+  "4": {
+    "attractions": ["Pangong Lake – colour-changing high-altitude lake", "Nubra Valley – sand dunes and double-humped camels", "Thiksey Monastery – hilltop Buddhist monastery", "Khardung La – one of the highest motorable passes"],
+    "budget": { "stay": 11000, "food": 5000, "transport": 9000, "activities": 4000 },
+    "travel": { "reach": "Fly to Leh; the Manali–Leh road is open in summer.", "airport": "Kushok Bakula Rimpochee Airport (IXL)", "climate": "Cold desert, thin air at altitude", "language": "Ladakhi, Hindi, English", "tip": "Rest for 24 to 48 hours on arrival to adjust to altitude." }
+  },
+  "5": {
+    "attractions": ["Solang Valley – paragliding and snow activities", "Rohtang Pass – snow point (permit needed)", "Hadimba Temple – cedar-forest temple", "Old Manali – cafes and riverside walks"],
+    "budget": { "stay": 5000, "food": 3000, "transport": 3000, "activities": 3000 },
+    "travel": { "reach": "Overnight buses from Delhi; fly to Bhuntar and drive.", "airport": "Bhuntar Airport (KUU)", "climate": "Cool summers, snowy winters", "language": "Hindi, Pahari, English", "tip": "Check Rohtang permit and road status before you plan." }
+  },
+  "6": {
+    "attractions": ["Coorg coffee estates – plantation walks and stays", "Abbey Falls – waterfall near Madikeri", "Ooty Nilgiri Mountain Railway – heritage toy train", "Government Botanical Garden, Ooty"],
+    "budget": { "stay": 6000, "food": 3000, "transport": 3500, "activities": 2000 },
+    "travel": { "reach": "Fly or train to Mysuru or Coimbatore, then drive.", "airport": "Coimbatore (CJB) or Mysuru (MYQ)", "climate": "Cool and misty, rainy in monsoon", "language": "Kannada, Tamil, English", "tip": "Carry a light jacket even in summer evenings." }
+  },
+  "7": {
+    "attractions": ["Ubud – rice terraces and art markets", "Uluwatu Temple – clifftop sea temple", "Nusa Penida – Kelingking Beach viewpoint", "Tegallalang – terraced rice fields"],
+    "budget": { "stay": 22000, "food": 9000, "transport": 7000, "activities": 8000 },
+    "travel": { "reach": "Direct and one-stop flights to Denpasar.", "airport": "Ngurah Rai International Airport (DPS)", "climate": "Tropical, dry season April to October", "language": "Indonesian, Balinese, English", "tip": "Check current visa on arrival rules before you book." }
+  },
+  "8": {
+    "attractions": ["Eiffel Tower – summit and evening light show", "Louvre Museum – world-famous art collection", "Montmartre – artists' quarter and Sacré-Cœur", "Seine river cruise – city landmarks from the water"],
+    "budget": { "stay": 40000, "food": 18000, "transport": 6000, "activities": 12000 },
+    "travel": { "reach": "Direct flights from Delhi and Mumbai.", "airport": "Charles de Gaulle Airport (CDG)", "climate": "Mild springs, cold winters", "language": "French, English in tourist areas", "tip": "A Schengen visa is required; apply well in advance." }
+  }
+}
